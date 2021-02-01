@@ -13,5 +13,8 @@ HashiCorp Vault is a tool for securely accessing secrets. Vault provides a unifi
 
 This stack Creates a Vault application using Gitops.
 
+### What is Gitops?
+(https://www.ecloudcontrol.com/category/gitops/)
+
 ## Documentation: How to use Vault stack
 [Vault](https://docs.ecloudcontrol.com/vault-1.2/)
