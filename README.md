@@ -18,3 +18,6 @@ This stack Creates a Vault application using Gitops.
 
 ## Documentation: How to use Vault stack
 [Vault](https://docs.ecloudcontrol.com/vault-1.2/)
+
+## Learn more about AppZ Platform and Stacks
+(https://www.ecloudcontrol.com/)
