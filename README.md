@@ -13,7 +13,7 @@ Vault from HashiCorp is a tool for securely storing and accessing secrets. Vault
 
 This stack creates a Vault application using GitOps.
 
-### What is Gitops?
+### What is GitOps?
 [GitOps](https://www.ecloudcontrol.com/category/gitops/)
 
 ## Documentation: How to use Vault stack
