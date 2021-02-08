@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Vault from HashiCorpis a tool for securely accessing secrets. Vault provides an unified interface to any secrets, while providing rigid access control and detailed audit log. AppZ platform provides Vault-1.2 as a core stateful component.
+Vault from HashiCorp is a tool for securely accessing secrets. Vault provides an unified interface to any secrets, while providing rigid access control and detailed audit log. AppZ platform provides Vault-1.2 as a core stateful component.
 
 ### Features:
 
