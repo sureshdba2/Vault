@@ -11,7 +11,7 @@ build:
     image_template: vault-1.2
 
 deploy:
-    context: alpha/DEV
+    context: sureshdba2/DEV
     type: statefulset
     replicas: 1
     port:
