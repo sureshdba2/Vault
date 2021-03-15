@@ -18,6 +18,7 @@ deploy:
     - 8200
     - 80
 
+
 volumes:
   - claim: vault-home
     mount: /appz/home
